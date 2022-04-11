@@ -1,4 +1,4 @@
-# Subscription Platform
+# Sub Platform
 
 ## Installation Setup
 1. Clone the repository
